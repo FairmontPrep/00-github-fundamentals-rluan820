@@ -1,0 +1,4 @@
+I learned about GitHub that it could help us track changes we make on our projects so we always have a record of what we’ve worked on and can easily revert back to an older version if needed. It's also a home to some of the most advanced technologies in the world, whether it's visualizing data or building a code for a new game. A part that I still don't really understand now is cloning. How does cloning work? Why does creating a local copy help to fix issues? I think I have to start working on GitHub in order to understand the complex technologies in it.
+
+profile README:
+I'm interested in learning philosophical ideas and artistic ways of expressing our mind/creativity. I'm working hard on my school work of my Junior year, which is extremelyt important for my highschool career. I'm also writing a novel that I'm working on for 2 years. My favorite hobby is playing basketball, working out, and writing novels.
